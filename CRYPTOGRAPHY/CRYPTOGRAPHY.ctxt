@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=r\ s\ a\ message
+comment1.target=java.lang.String\ encrypt(int,\ int,\ int,\ java.lang.String)
+comment2.params=r\ s\ a\ message
+comment2.target=java.lang.String\ decrypt(int,\ int,\ int,\ java.lang.String)
+comment3.params=a\ m
+comment3.target=int\ modInverse(int,\ int)
+comment4.params=e\ j
+comment4.target=boolean\ action(java.awt.Event,\ java.lang.Object)
+numComments=5
